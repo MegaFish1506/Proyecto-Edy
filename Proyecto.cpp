@@ -18,6 +18,14 @@ int main() {
         switch (op) {
             case 1:
                 break;
+            
+            case 5:
+                cout << "Este proyecto fue elaborado por: " << endl;
+                cout << "Angúlo Barraza Fabián" << endl;
+                cout << "Espinoza Gamboa Israel" << endl;
+                cout << "Morales Velarde Armando" << endl;
+                cout << "Sanchez Quintero Carlos Jeovanny" << endl;
+                break;
             case 6:
                 break;
             default:
